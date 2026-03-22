@@ -1,0 +1,20 @@
+# Azure Functions
+bin/
+obj/
+
+# Local secrets / settings
+AdhanFunction/local.settings.json
+
+# OS / tooling
+.DS_Store
+.vscode/
+
+# Frontend
+frontend/node_modules
+frontend/dist
+
+# Android
+android/.gradle
+android/**/build
+android/local.properties
+
